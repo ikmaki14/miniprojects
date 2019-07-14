@@ -16,6 +16,8 @@
 		7E1ED1DE22DBBDC90056A2E9 /* miniprojectsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1ED1DD22DBBDC90056A2E9 /* miniprojectsUITests.swift */; };
 		7E1ED1EC22DBBFB60056A2E9 /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1ED1EB22DBBFB60056A2E9 /* ToDoTableViewController.swift */; };
 		7E1ED1EE22DBC0760056A2E9 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1ED1ED22DBC0760056A2E9 /* ToDo.swift */; };
+		7EEEB09622DBE6E70063E50C /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EEEB09522DBE6E70063E50C /* AddToDoViewController.swift */; };
+		7EEEB0D522DBF1020063E50C /* CompleteToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EEEB0D422DBF1020063E50C /* CompleteToDoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		7E1ED1DF22DBBDC90056A2E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7E1ED1EB22DBBFB60056A2E9 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 		7E1ED1ED22DBC0760056A2E9 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
+		7EEEB09522DBE6E70063E50C /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
+		7EEEB0D422DBF1020063E50C /* CompleteToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteToDoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				7E1ED1C122DBBDC80056A2E9 /* miniprojects.xcdatamodeld */,
 				7E1ED1EB22DBBFB60056A2E9 /* ToDoTableViewController.swift */,
 				7E1ED1ED22DBC0760056A2E9 /* ToDo.swift */,
+				7EEEB09522DBE6E70063E50C /* AddToDoViewController.swift */,
+				7EEEB0D422DBF1020063E50C /* CompleteToDoViewController.swift */,
 			);
 			path = miniprojects;
 			sourceTree = "<group>";
@@ -264,7 +270,9 @@
 			files = (
 				7E1ED1C322DBBDC80056A2E9 /* miniprojects.xcdatamodeld in Sources */,
 				7E1ED1EC22DBBFB60056A2E9 /* ToDoTableViewController.swift in Sources */,
+				7EEEB09622DBE6E70063E50C /* AddToDoViewController.swift in Sources */,
 				7E1ED1BB22DBBDC80056A2E9 /* AppDelegate.swift in Sources */,
+				7EEEB0D522DBF1020063E50C /* CompleteToDoViewController.swift in Sources */,
 				7E1ED1EE22DBC0760056A2E9 /* ToDo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

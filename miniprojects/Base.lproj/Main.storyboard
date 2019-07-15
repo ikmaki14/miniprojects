@@ -56,8 +56,8 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wmM-hr-Pz5">
-                                <rect key="frame" x="184" y="358" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="185" y="358" width="45" height="30"/>
+                                <state key="normal" title="Delete"/>
                                 <connections>
                                     <action selector="completeTapped:" destination="OGa-he-kX8" eventType="touchUpInside" id="tie-Wx-mCB"/>
                                 </connections>
